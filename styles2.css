@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+main {
+    max-width: 700px;
+    margin: 30px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+section {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+h1, h2 {
+    color: #0077cc;
+}
+.highlight {
+    background: yellow;
+    font-weight: bold;
+}
+button {
+    margin: 5px 0;
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: none;
+    background: #0077cc;
+    color: #fff;
+    cursor: pointer;
+}
+button:hover {
+    background: #005fa3;
+}
